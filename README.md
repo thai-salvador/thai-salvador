@@ -1,13 +1,42 @@
-## Hello there 👋
+## <div align="center">Hello! It's great to see you here! 👋
 
-#### My name is Thaise and I'm a junior software developer. 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/81175135/118340123-37219d80-b4f1-11eb-87ff-573efcd0b422.gif" width="700px" />
+</div>
 
-* 🌱 **The technologies I've been mainly studying at the moment are:**  <img src="https://www.thoosje.com/images/programming/csharp-icon.png" width="30" height="30" />  <img src="https://developers.redhat.com/blog/wp-content/uploads/2017/08/dotNET_logo_265px.png" width="40" height="30" />
+&nbsp;
 
-* 🤩 **I'm highly motivated by:** my constant improvement, new challenges and collaborating with others
-* ❤️ **Things I'm appassionate about:** technology, aviation, traveling and summer
-* 🔭 **I’m working hard on:** developing my capabilities, trying to learn as much as possible to develop the best solutions
-* ⚡ **An interesting fact about me:** I'm graduated in Business Science and Pedagogy, and worked as a teacher in two public schools
+
+ <p>💻 <strong>The technologies I've been mainly studying at the moment are:</strong> C#, .NET 5.0, ASP .NET MVC, Web API, Entity Framework and xUnit</strong>
+ <p>🤩 <strong>I'm highly motivated by:</strong>  my constant improvement, new challenges and collaborating with others</strong>
+ <p>❤️ <strong> Things I'm appassionate about:</strong>  technology, aviation, cats, traveling and summer
+ <p>🚀 <strong> I’m working hard on:</strong> developing my capabilities, trying to learn as much as possible to develop the best solutions
+ <p>🧐 <strong> Some curiosities about me:</strong> I'm graduated in Business Science and Pedagogy, and worked as a teacher in two public schools.
+   
+   &nbsp;
+
+## 💻 Technologies & Tools
+
+<p align="center">
+  
+<img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
+ 
+
+## ⭐ GitHub Stats
+
+<p align = "center">
+  <p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=thai-salvador&show_icons=true&theme=tokyonight&line_height=27">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thai-salvador&hide=css,html&theme=tokyonight">
+</p>
+
+
+
 
 
 
