@@ -1,4 +1,4 @@
-## <div align="center">Hello! It's great to see you here! 👋
+## <div align="center">Hello! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  It's great to see you here!
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/81175135/118340123-37219d80-b4f1-11eb-87ff-573efcd0b422.gif" width="700px" />
