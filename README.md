@@ -7,11 +7,11 @@
 &nbsp;
 
 
- <p>💻 <strong>The technologies I've been mainly studying at the moment are:</strong> C#, .NET 5.0, ASP .NET MVC, Web API, Entity Framework and xUnit</strong>
+ <p>💻 <strong>The technologies I've been mainly working and studying at the moment are:</strong> C#, .NET, Sitecore, ASP.NET MVC, Web API, Entity Framework and xUnit</strong>
  <p>🤩 <strong>I'm highly motivated by:</strong>  my constant improvement, new challenges and collaborating with others</strong>
- <p>❤️ <strong> Things I'm appassionate about:</strong>  technology, aviation, cats, traveling and summer
- <p>🚀 <strong> I’m working hard on:</strong> developing my capabilities, trying to learn as much as possible to develop the best solutions
- <p>🧐 <strong> Some curiosities about me:</strong> I'm graduated in Business Science and Pedagogy, and worked as a teacher in two public schools.
+ <p>❤️ <strong> Things I'm appassionate about:</strong>  technology, aviation, traveling and summer
+ <p>🚀 <strong> I’m working hard on:</strong> improving my skills, trying to learn as much as possible to develop great apps
+ <p>🧐 <strong> Some curiosities about me:</strong> I'm graduated in Business Science and Pedagogy, and before working as a software developer, I teached primary in two schools and lived in Europe for almost 5 years
    
    &nbsp;
 
@@ -34,23 +34,3 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=thai-salvador&show_icons=true&theme=tokyonight&line_height=27">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thai-salvador&hide=css,html&theme=tokyonight">
 </p>
-
-
-
-
-
-
-<!--
-**thai-salvador/thai-salvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
