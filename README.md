@@ -7,10 +7,9 @@
 &nbsp;
 
 
- <p>💻 <strong>The technologies I've been mainly working and studying at the moment are:</strong> C#, .NET, Sitecore, ASP.NET MVC, Web API, Entity Framework and xUnit</strong>
- <p>🤩 <strong>I'm highly motivated by:</strong>  my constant improvement, new challenges and collaborating with others</strong>
- <p>❤️ <strong> Things I'm appassionate about:</strong>  technology, aviation, traveling and summer
- <p>🚀 <strong> I’m working hard on:</strong> improving my skills, trying to learn as much as possible to develop great apps
+ <p>💻 <strong>The technologies (and not only) I've been mainly working and studying at the moment are:</strong> C#/.NET, Sitecore, ASP.NET MVC, Web API, EF, Docker, DDD and Clean Code</strong>
+ <p>🤩 <strong>I'm highly motivated by:</strong> solving problems, collaborating with others and being strongly committed to my constant improvement, trying to learn as much as possible to develop great apps using the best practices in software development</strong>
+ <p>❤️ <strong> Things I'm appassionate about:</strong>  technology, aviation and traveling
  <p>🧐 <strong> Some curiosities about me:</strong> I'm graduated in Business Science and Pedagogy, and before working as a software developer, I teached primary in two schools and lived in Europe for almost 5 years
    
    &nbsp;
