@@ -7,29 +7,9 @@
 &nbsp;
 
 
- <p>💻 <strong>The technologies (and not only) I've been mainly working and studying at the moment are:</strong> C#/.NET, Sitecore, ASP.NET MVC, Web API, EF, Docker, DDD and Clean Code</strong>
- <p>🤩 <strong>I'm highly motivated by:</strong> solving problems, collaborating with others and being strongly committed to my constant improvement, trying to learn as much as possible to develop great apps using the best practices in software development</strong>
- <p>❤️ <strong> Things I'm appassionate about:</strong>  technology, aviation and traveling
- <p>🧐 <strong> Some curiosities about me:</strong> I'm graduated in Business Science and Pedagogy, and before working as a software developer, I teached primary in two schools and lived in Europe for almost 5 years
-   
-   &nbsp;
+ <p>💻 <strong>The technologies and concepts I've been mainly working and focusing on at the moment are:</strong> C#/.NET, microservices, CQRS, SQL and NoSQL databases,  Docker, DDD, and overall code quality </strong>
+ <p>🤩 <strong>I'm highly motivated by:</strong> solving problems, collaborating with others, and being strongly committed to my continuous improvement, striving to learn as much as possible to develop great applications using the best practices in software development</strong>
+ <p>❤️ <strong> Things I'm appassionate about:</strong> technology, aviation, ancient Rome, and traveling
+ <p>🧐 <strong> Some curiosities about me:</strong> I have a degree in Business Science and Pedagogy, and before working as a software engineer, I teached primary in two schools
 
-## 💻 Technologies & Tools
 
-<p align="center">
-  
-<img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-
- 
-
-## ⭐ GitHub Stats
-
-<p align = "center">
-  <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=thai-salvador&show_icons=true&theme=tokyonight&line_height=27">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thai-salvador&hide=css,html&theme=tokyonight">
-</p>
